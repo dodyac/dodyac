@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Ahmad Dody
-[![Gmail Badge](https://img.shields.io/badge/-dodyacx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dodyacx@gmail.com)](mailto:dodyacx@gmail.com) [![Github Badge](https://img.shields.io/badge/-holiq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/holiq/)](https://www.github.com/holiq/)
+[![Gmail Badge](https://img.shields.io/badge/-dodyacx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dodyacx@gmail.com)](mailto:dodyacx@gmail.com) [![Github Badge](https://img.shields.io/badge/-dodyac-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dodyac/)](https://www.github.com/dodyac/)
 <p align='left'>I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use</p>
 
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
