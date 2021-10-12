@@ -7,5 +7,5 @@
 
 ## My Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=holiq&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/holiq/holiq)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holiq&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/holiq/holiq)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=holiq&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/dodyac/dodyac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyac&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/dodyac/dodyac)
